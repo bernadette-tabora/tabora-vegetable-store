@@ -1,0 +1,22 @@
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+    outline: 6px groove rgb(255, 202, 103);
+}
+.avatar img {
+    width: 70px;
+    height: 70px;
+}
+
+.vege_img{
+    max-width: 400px;
+    margin: auto;
+}
+
+.vege_img img {
+    width: 400px;
+    height: 100%;
+    object-fit: cover;
+}
